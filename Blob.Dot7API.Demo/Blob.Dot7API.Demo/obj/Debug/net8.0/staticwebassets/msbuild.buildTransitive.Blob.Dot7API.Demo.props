@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Blob.Dot7API.Demo.props" />
+</Project>

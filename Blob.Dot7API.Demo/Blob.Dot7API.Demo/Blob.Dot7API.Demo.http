@@ -1,0 +1,6 @@
+@Blob.Dot7API.Demo_HostAddress = http://localhost:5021
+
+GET {{Blob.Dot7API.Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blob.Dot7API.Demo.props" />
+</Project>
